@@ -1,0 +1,6 @@
+#include<stdio.h> 
+int main(){
+	int 12a=1+2;
+	int c=5;
+	sd^sd;
+}$

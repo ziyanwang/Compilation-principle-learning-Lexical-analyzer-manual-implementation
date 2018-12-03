@@ -1,0 +1,7 @@
+#include<stdio.h> 
+int main(){
+	int 2a=1+2;
+	int c=5;
+	//if(a||!b);
+	c=a/1;
+}$
